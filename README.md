@@ -10,3 +10,14 @@ The Touhou Meme Project is a THCRAP run patch that will memeify (soon to be) all
 - Title screen changed.
 ### TODO
 - Any routes not mentioned.
+- Miscellaneous tasks
+
+## Hidden Star in Four Seasons
+- BGM from title to extra boss changed
+- All bgm titles and stage logos changed.
+- All demo spellcard names changed (aside from extra mai and satono).
+- Title screen changed.
+### TODO
+- Ending and staff roll theme
+- Enemy titles
+- Rest of the spellcards
