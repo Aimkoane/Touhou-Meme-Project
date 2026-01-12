@@ -8,7 +8,8 @@ The Touhou Meme Project is a patch that will memeify (soon to be) all Team Shang
 - All enemy titles, bgm titles, and stage logos changed.
 - All spellcard names changed.
 - Title screen changed.
-- Stage 3 underground pyramid texture changed.
+- Stage 1 barrier recolored, Stage 3 "hole" changed & underground pyramid texture changed, stage 4 all variants changed, stage 5 background jeffified & space texture changed, stage 6 background entirely changed.
+- Ariya's spellcard backgrounds changed.
 ### TODO
 - Any routes not mentioned.
 - Miscellaneous tasks
